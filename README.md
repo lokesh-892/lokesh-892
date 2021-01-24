@@ -38,7 +38,4 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
 <a href="https://www.instagram.com/lokesh.mamidisetti/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lokesh-mamidisetti-7b5a7aa4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-*.cs linguist-detectable=true
-*.js linguist-detectable=false`
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
+
