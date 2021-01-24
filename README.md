@@ -18,8 +18,6 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40"       height="40"/>
   <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png">
