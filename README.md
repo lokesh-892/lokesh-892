@@ -7,6 +7,8 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
 
 
 ## 🔧 Technical Profile Summary
+* 🇮🇳
+* Snowflake ❄️
 * Python, Tableau, SQL, Excel,PowerBi
 * PostgreSQL, MySql
 * GitHub
