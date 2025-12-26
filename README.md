@@ -14,7 +14,7 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
 * GitHub
 * Jupyter notebook
 * 💻 I’m currently working on cloud migration project in healthcare domain
-* 🌱 I’m currently learning python for data Analysis and many cloud services in aws
+* 🌱 I’m currently learning python for data Analysis and many cloud services in Azure
 * ⚡ Special Talent: Badminton, Photography
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
